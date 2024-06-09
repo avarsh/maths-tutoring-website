@@ -105,85 +105,50 @@ h2 {
         top: 2%;
         animation-duration: 30s;
         opacity: 0.8;
+
+        animation-name: cmove;
     }
 
     #c1 {
         left: 75%;
         top: 15%;
-        animation-name: c1;
+        animation-delay: -22s;
     }
 
     #c2 {
         left: 45%;
         top: 40%;
-        animation-name: c2;
+        animation-delay: -13.5s;
         transform: scale(-0.8, 0.8);
     }
 
     #c3 {
         left: 0%;
         top: calc(100% - 150px);
-        animation-name: c3;
     }
 
     #c4 {
         left: 10%;
         top: 10%;
-        animation-name: c4;
         transform: scale(-1, 1);
+        animation-delay: -3s;
     }
 
     #c5 {
         left: 60%;
         top: 70%;
-        animation-name: c5;
+        animation-delay: -18s;
     }
 
     #c6 {
         left: 55%;
         top: 10%;
-        animation-name: c6;
+        animation-delay: -16.5s;
     }
 
-
-    @keyframes c1 {
-        0% { left: 75%;}
-        25% { left: 110%; }
-        25.001% { left:0% }
-        100% { left: 75%; }
-    }
-
-    @keyframes c2 {
-        0% { left: 45%;}
-        55% { left: 110%; }
-        55.001% { left: 0% }
-        100% { left: 45%; }
-    }
-
-    @keyframes c3 {
+    @keyframes cmove {
         0% { left: 0%;}
         100% { left: 110%; }
-    }
-
-    @keyframes c4 {
-        0% { left: 10%;}
-        90% { left: 110%; }
-        90.001% { left: 0% }
-        100% { left: 10%; }
-    }
-
-    @keyframes c5 {
-        0% { left: 60%;}
-        40% { left: 110%; }
-        40.001% { left: 0% }
-        100% { left: 60%; }
-    }
-
-    @keyframes c6 {
-        0% { left: 55%;}
-        45% { left: 110%; }
-        45.001% { left: 0% }
-        100% { left: 55%; }
     }
 
     #airplane {
@@ -191,6 +156,18 @@ h2 {
         width: 600px;
         display: inline-block;
         z-index: 1;
+        animation: bob 2s alternate ease-in-out;
+        animation-iteration-count: infinite;
+    }
+
+    @keyframes bob {
+        0% {
+            transform: translateY(-2%);
+        }
+
+        100% {
+            transform: translateY(2%);
+        }
     }
     
 }
