@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="125mm"
+   height="125mm"
+   viewBox="0 0 125 125"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath12">
+      <rect
+         style="fill:#ffdfb4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="rect13"
+         width="508"
+         height="253.99989"
+         x="-2.4999999e-06"
+         y="211.66664"
+         rx="0.70019102"
+         ry="0.84022892" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1">
+      <rect
+         style="fill:#ffdfb4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="rect1"
+         width="508"
+         height="253.99989"
+         x="-2.4999999e-06"
+         y="211.66664"
+         rx="0.70019102"
+         ry="0.84022892" />
+    </clipPath>
+  </defs>
+  <g
+     id="layer1">
+    <path
+       style="fill:#ffa521;fill-opacity:1;stroke:none;stroke-width:0.760677;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path12"
+       d="M 92.360609,400.79504 A 60.854153,60.854149 0 0 1 70.75224,483.59872 60.854153,60.854149 0 0 1 -12.288633,462.92059 60.854153,60.854149 0 0 1 7.4566708,379.65298 60.854153,60.854149 0 0 1 90.94054,398.46297"
+       clip-path="url(#clipPath12)"
+       transform="translate(22.812485,-368.77081)" />
+    <path
+       style="fill:#362cb3;fill-opacity:1;stroke:none;stroke-width:0.760677;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path29"
+       d="m 78.668015,384.54022 a 60.854153,60.854149 0 0 1 8.597053,8.78848 l -47.577557,37.94211 z"
+       clip-path="url(#clipPath12)"
+       transform="translate(22.812485,-368.77081)" />
+    <path
+       style="fill:#f43939;fill-opacity:1;stroke:none;stroke-width:0.760677;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path31"
+       d="M 109.97804,24.433433 A 60.854153,60.854149 0 0 1 112.91515,96.581371 60.854153,60.854149 0 0 1 44.870352,120.74451 60.854153,60.854149 0 0 1 1.6471778,62.902402 60.854153,60.854149 0 0 1 44.101611,4.4937313 L 62.5,62.499996 Z"
+       clip-path="none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.5;font-family:Cabin;-inkscape-font-specification:Cabin;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.53944, 7.0789;stroke-dashoffset:0;stroke-opacity:1"
+       x="91.580444"
+       y="67.328979"
+       id="text35"><tspan
+         id="tspan35"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.5875"
+         x="91.580444"
+         y="67.328979">82%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.5;font-family:Cabin;-inkscape-font-specification:Cabin;fill:#000000;fill-opacity:0.840882;stroke:none;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.53944, 7.0789;stroke-dashoffset:0;stroke-opacity:1"
+       x="65.122101"
+       y="24.995712"
+       id="text36"><tspan
+         id="tspan36"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#000000;fill-opacity:0.840882;stroke:none;stroke-width:1.5875"
+         x="65.122101"
+         y="24.995712">17%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.5;font-family:Cabin;-inkscape-font-specification:Cabin;fill:#000000;fill-opacity:0.840882;stroke:none;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.53944, 7.0789;stroke-dashoffset:0;stroke-opacity:1"
+       x="108.51379"
+       y="18.645702"
+       id="text37"><tspan
+         id="tspan37"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#000000;fill-opacity:0.840882;stroke:none;stroke-width:1.5875"
+         x="108.51379"
+         y="18.645702">4%</tspan></text>
+  </g>
+</svg>
