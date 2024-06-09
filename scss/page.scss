@@ -289,7 +289,7 @@ h2 {
 @media only screen and (max-width: 1200px) {
     .page {
         width: 95%;
-        
+
         .page-title {
             font-size: $size-large;
         }
@@ -298,10 +298,12 @@ h2 {
     .content {
         padding-top: 50px;
         padding-bottom: 50px;
+        font-size: $size-normal;
     }
 
     #landing {
         flex-direction: column;
+
         .left {
             width: 100%;
             padding-top: 25px;
@@ -309,7 +311,17 @@ h2 {
                 padding-left: 0;
                 width: 90%;
                 margin: 0 auto;
+                font-size: $size-medium;
             }
+
+            #landing-title {
+                font-size: $size-large;
+            }
+
+            #landing-text {
+                font-size: $size-medium;
+            }
+    
         }
         #airplane {
             display: none;
